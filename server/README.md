@@ -7,3 +7,4 @@ users > thunk
 createSlice users used in UserList
 
 reducers createSlice (transform reducers>index.js to use in itemsList)
+thunks used to activate Services
